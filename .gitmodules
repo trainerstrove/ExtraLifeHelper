@@ -1,0 +1,3 @@
+[submodule "json_document"]
+	path = json_document
+	url = https://github.com/VA7ODR/json_document.git
