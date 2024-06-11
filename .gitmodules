@@ -1,6 +1,3 @@
-[submodule "json_document"]
-	path = json_document
-	url = https://github.com/VA7ODR/json_document.git
-[submodule "SDString"]
-	path = SDString
-	url = https://github.com/VA7ODR/SDString.git
+[submodule "EasyAppBase"]
+	path = EasyAppBase
+	url = http://github.com/VA7ODR/EasyAppBase
